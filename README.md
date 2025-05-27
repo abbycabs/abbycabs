@@ -1,6 +1,6 @@
 👋 Hello, Hello! I’m Abby
 
-I'm fueling a culture of **openness** in innovation and research.
+I lead open source mainainer programs at GitHub!
 
 More about me:
 * 🌏 Founded and led [Mozilla Open Leaders](https://medium.com/read-write-participate/introducing-open-leaders-x-ol%CB%A3-a12e049f5cc0?p=a12e049f5cc0) which mentored over 600 open projects globally
@@ -10,7 +10,7 @@ More about me:
 * 🎉 Featured in [100 Awesome Women in Open Source](https://github.com/src-d/blog/blob/master/content/post/100-awesome-women-in-the-open-source-community-you-should-know.md), [GitHub's State of the Octoverse](https://octoverse.github.com/2016/), and [Faces of Open Source](https://www.facesofopensource.com/abigail-cabunoc-mayes/)
 
 Featured articles:
-* ✨ [Abby's 2021 Year in Review](https://medium.com/@abbycabs/abbys-2021-year-in-review-e4d8b00c7f5e)
+* ✨ [Abby's 2023 & 2024 Year in Review]([https://medium.com/@abbycabs/abbys-2021-year-in-review-e4d8b00c7f5e](https://medium.com/@abbycabs/abbys-2023-2024-year-in-review-7bf103a559c4))
 * ⛰ [Creating Pathways That Invest in New Maintainers](https://medium.com/@abbycabs/creating-pathways-that-invest-in-new-maintainers-8ffb52e09681)
 
 How to reach me:
